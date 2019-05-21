@@ -1,0 +1,10 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #ffe;
+	color:#3f7f5f;
+	font-size: 12px;
+	margin: 20px auto;
+	position: absolute;
+	left: calc(50% - 100px);
+}
